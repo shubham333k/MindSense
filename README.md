@@ -68,14 +68,18 @@ MindSense-AI is an intelligent mental wellness companion that leverages Natural 
 ## 📂 Repository Structure
 
 ```
-
 MindSense/
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
-├── LICENSE                 # MIT License
-└── README.md               # Project documentation
+├── app.py                 # Main Streamlit application (entry point)
+├── sentiment.py            # Emotion & sentiment detection logic
+├── mental_state.py          # Tracks and manages user's mental state
+├── recommender.py           # Generates adaptive wellness recommendations
+├── therapist_model.py       # Core AI model for therapeutic responses
+├── history_store.py         # Handles storage/retrieval of conversation history
+├── mental_history.db        # SQLite database storing user mental-health history
+├── utils.py                 # Helper/utility functions
+├── LICENSE                  # MIT License
+└── README.md                # Project documentation
 ```
-
 ---
 
 ## 📄 License
