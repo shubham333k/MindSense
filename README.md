@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Shubham Kumar**
 *Computer Science (AIML) Undergraduate*
 
-- 💼 LinkedIn: [shubham-kumar-565040253](https://www.linkedin.com/in/shubham-kumar-565040253/)
+- 💼 LinkedIn: [shubham-kumar-565040253](https://www.linkedin.com/in/shubhamkumar-aiml/)
 - 🐙 GitHub: [@shubham333k](https://github.com/shubham333k)
 - 📧 Email: shubhamjhanjhot333k@gmail.com
 
